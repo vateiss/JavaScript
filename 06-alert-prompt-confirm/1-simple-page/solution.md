@@ -1,11 +1,9 @@
-JavaScript-код:
-
 ```js demo run
 let name = prompt("Ваше имя?", "");
 alert(name);
 ```
 
-Вся страница:
+//Вся страница://
 
 ```html
 <!DOCTYPE html>
