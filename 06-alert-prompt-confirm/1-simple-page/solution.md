@@ -1,5 +1,3 @@
-//JavaScript-код://
-
 ```js demo run
 let name = prompt("Ваше имя?", "");
 alert(name);
